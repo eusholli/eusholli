@@ -1,1 +1,1 @@
-My name is Thomas and today is Thursday, September 3, 12:57 PM GMT+2.
+My name is Thomas and today is Thursday, 3 September, 14:47 CEST. Wow!
