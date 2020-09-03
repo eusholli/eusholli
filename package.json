@@ -1,0 +1,25 @@
+{
+  "name": "eusholli",
+  "version": "1.0.0",
+  "description": "GitHub Profile page",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusholli/eusholli.git"
+  },
+  "author": "Geoff Hollingworth <eusholli@gmail.com> (https://linkedin.com/in/geoffhollingworth)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eusholli/eusholli/issues"
+  },
+  "homepage": "https://github.com/eusholli/eusholli#readme",
+  "devDependencies": {
+    "eslint": "7.8.1"
+  },
+  "dependencies": {
+    "mustache": "4.0.1"
+  }
+}
