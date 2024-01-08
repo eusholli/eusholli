@@ -1,2 +1,2 @@
 My first ever working GitHub Action!
-My name is Thomas and today is Sunday, 7 January, 19:05 CET. 
+My name is Thomas and today is Monday, 8 January, 01:19 CET. 
